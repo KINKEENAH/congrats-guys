@@ -53,7 +53,7 @@ congrats-system-backend/    # backend
 
 ```json
 {
-  "name": "Sakeenah Ibrahim",
+  "name": "Miriam Owusu",
   "year": 2026,
   "style": "emotional",
   "message": "..."
